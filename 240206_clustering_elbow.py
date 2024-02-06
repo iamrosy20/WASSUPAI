@@ -1,3 +1,5 @@
+# Finding the optimal cluster number k, using elbow method
+
 from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
