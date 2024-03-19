@@ -1,3 +1,3 @@
-# EstSoft WASSUP AI
+# ESTsoft WASSUP AI
 This respository is a collection of python files related to machine learning.
-These files are created with help from EstSoft.
+These files are created with help from ESTsoft.
