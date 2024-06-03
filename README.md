@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=6495ed&height=225&section=header&text=ESTsoft%20WASSUP%20AI&desc=Member:%20박태우,%20김수현,%20이재익,%20이주완,%20허은영&fontColor=ffffff&fontSize=40&fontAlign=70&fontAlignY=20&descSize=15&descAlign=70&descAlignY=35&rotate=15)
+![header](https://capsule-render.vercel.app/api?type=slice&color=1478cd&height=225&section=header&animation=fadeIn&text=ESTsoft%20WASSUP%20AI&desc=Member:%20박태우,%20김수현,%20이재익,%20이주완,%20허은영&fontColor=ffffff&fontSize=40&fontAlign=70&fontAlignY=20&descSize=15&descAlign=70&descAlignY=35&rotate=15)
 
 
 # ESTsoft WASSUP AI
