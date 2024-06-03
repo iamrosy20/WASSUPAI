@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=6495ed&height=300&section=header&text=ESTsoft%20WASSUP%20AI&desc=Hello%20capsule%20render&fontSize=50)
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=6495ed&height=300&section=header&text=ESTsoft%20WASSUP%20AI&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=6495ed&height=300&section=header&text=ESTsoft%20WASSUP%20AI%fontcolor=FFFFFF&fontSize=50&rotate=30)
 
 <div align=center>
 	<a href="https://blog.naver.com/PostList.naver?blogId=zanmang20">
