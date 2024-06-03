@@ -14,3 +14,6 @@
 # ESTsoft WASSUP AI
 This respository is a collection of jupyter notebook files related to machine learning.
 These files are created with help from ESTsoft.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrosy20&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=iamrosy20&show_icons=true">
