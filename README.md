@@ -2,7 +2,14 @@
 
 # 목차 :bookmark_tabs:
 [1. 안면분류 모델](#1-안면분류-모델)<br>
-[2. 안면분류 모델을 활용한 서비스](#2-안면분류-모델을-활용한-서비스)<br><br>
+[2. 안면분류 모델을 활용한 서비스](#2-안면분류-모델을-활용한-서비스)<br>
+<div>
+	※ 참조: 
+	<a href="https://www.notion.so/68917b8e5bc54a978beec758fd546705?v=f873038b83454d938f8e42ef863b2d9c">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+	</a>
+</div>
+<br>
 
 # 1. 안면분류 모델
 <div>
@@ -43,10 +50,3 @@
   	<img width="256" alt="4" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/323d7669-0aff-4e2b-ace3-6848754be06a"><br>
 	 상세내용4
 </details>
-<br><br>
-
-<div>
-	<a href="https://www.notion.so/68917b8e5bc54a978beec758fd546705?v=f873038b83454d938f8e42ef863b2d9c">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-	</a>
-</div>
