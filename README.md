@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=1478cd&height=225&section=header&animation=twinkling&text=Step-up%20Project&desc=Member:%20박태우,%20김수현,%20이재익,%20이주완,%20허은영&fontColor=ffffff&fontSize=40&fontAlign=72&fontAlignY=20&descSize=15&descAlign=72&descAlignY=35&rotate=15)
 
-# 목차 :bookmark_tabs:
+### 목차 :bookmark_tabs:
 [1. 안면분류 모델](#1-안면분류-모델)<br>
 [2. 안면분류 모델을 활용한 서비스](#2-안면분류-모델을-활용한-서비스)<br>
 <div>
