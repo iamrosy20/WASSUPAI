@@ -5,7 +5,7 @@
 This respository is a collection of jupyter notebook files related to machine learning.
 These files are created with help from ESTsoft.
 
-<div align=center>
+<div>
 	<a href="https://blog.naver.com/PostList.naver?blogId=zanmang20">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white"/>
 	</a>
