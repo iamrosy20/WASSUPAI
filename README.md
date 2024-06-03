@@ -1,17 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=1478cd&height=225&section=header&animation=fadeIn&text=Step-up%20Project&desc=Member:%20박태우,%20김수현,%20이재익,%20이주완,%20허은영&fontColor=ffffff&fontSize=40&fontAlign=72&fontAlignY=20&descSize=15&descAlign=72&descAlignY=35&rotate=15)
 
 # 목차 :bookmark_tabs:
-[1. 안면분류 모델](#안면분류-모델)
-[2. 안면분류 모델을 활용한 서비스](#안면분류-모델을-활용한-서비스)
+[1. 안면분류 모델](#1-안면분류-모델-:computer:)
+[2. 안면분류 모델을 활용한 서비스](#2-안면분류-모델을-활용한-서비스-:computer:)
 <div>
 	<h1>목차</h1>
 	[1. 안면분류 모델](#안면분류-모델)
 	[2. 안면분류 모델을 활용한 서비스](#안면분류-모델을-활용한-서비스)
 </div>
 
-# 안면분류 모델 :computer:
+# 1. 안면분류 모델 :computer:
 <div>
-	<h1>안면분류 모델 :computer:</h1>
 	**[4가지의 감정 분류]**<br>
 	:angry: Anger<br>
 	:relaxed: Happy<br>
@@ -23,9 +22,8 @@
 </div>
 <br><br>
 
-# 안면분류 모델을 활용한 서비스 :computer:
+# 2. 안면분류 모델을 활용한 서비스 :computer:
 <div>
-	<h1>안면분류 모델을 활용한 서비스 :computer:</h1>
 	<img width="474" alt="service" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/7bfeda17-5348-4b05-a2ef-517655d2cf2f"><br><br>
 
 	<details>
