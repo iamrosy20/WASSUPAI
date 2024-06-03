@@ -11,8 +11,7 @@
 	:relaxed: Happy<br>
 	:fearful: Panic<br>
 	:cry: Sadness<br><br>
-	<h4>[구현한 모델]</h4>
-	Patt_lite<br>
+	<h4>[Patt_lite 구현]</h4>
 	(상세 내용 태우님께서 적어주세요)
 </div>
 <br><br>
@@ -49,3 +48,7 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 	</a>
 </div>
+<details>
+	<summary>되나?</summary>
+	흠
+</details>
