@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=6495ed&height=300&section=header&text=ESTsoft%20WASSUP%20AI&fontcolor=ffffff&fontSize=40&fontAlign=70&fontAlignY=20&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=6495ed&height=300&section=header&text=ESTsoft%20WASSUP%20AI&desc=Member:%20박태우,%20김수현,%20이재익,%20이주완,%20허은영&fontcolor=ffffff&fontSize=40&fontAlign=70&fontAlignY=20&rotate=20)
 
 <div align=center>
 	<a href="https://blog.naver.com/PostList.naver?blogId=zanmang20">
