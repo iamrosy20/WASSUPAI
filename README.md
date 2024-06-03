@@ -9,6 +9,7 @@ These files are created with help from ESTsoft.
 	<a href="https://blog.naver.com/PostList.naver?blogId=zanmang20">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white"/>
 	</a>
+	<br>
 	<a href="https://www.notion.so/oreumi/2-AI-WASSUP-e67da9b91fcd43dfb05c93344635bae8?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 	</a>
