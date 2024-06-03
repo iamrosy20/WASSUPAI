@@ -23,8 +23,8 @@
 
 <details>
 <summary>아스퍼거 증후군 치료 보조 프로그램</summary>
+  	<img width="327" alt="1" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/7d61a510-5597-485a-ac65-d1dec76f9a93"><br>
 	상세내용1
-  	<img width="327" alt="1" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/7d61a510-5597-485a-ac65-d1dec76f9a93">
 </details>
 
  <details>
@@ -34,14 +34,14 @@
 
  <details>
 <summary>사진 일기 (인스토리)</summary>
-	상세내용3
-  	<img width="276" alt="3" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/0ecb6d73-4333-4c39-b554-f5b40013a40b">
+  	<img width="276" alt="3" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/0ecb6d73-4333-4c39-b554-f5b40013a40b"><br>
+	 상세내용3
 </details>
 
  <details>
 <summary>면접 보조 프로그램</summary>
-	상세내용4
-  	<img width="256" alt="4" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/323d7669-0aff-4e2b-ace3-6848754be06a">
+  	<img width="256" alt="4" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/323d7669-0aff-4e2b-ace3-6848754be06a"><br>
+	 상세내용4
 </details>
 <br><br>
 
