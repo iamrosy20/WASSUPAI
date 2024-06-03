@@ -6,6 +6,14 @@ This respository is a collection of jupyter notebook files related to machine le
 These files are created with help from ESTsoft.
 
 <div>
+	<h2>안면분류 모델 구현: 4가지의 감정 분류</h2>
+	Anger 화남 :angry:
+	Happy 행복 :relaxed:
+	Panic 놀람/공포 :fearful:
+	Sadness 슬픔 :cry:
+</div>
+
+<div>
 	<a href="https://blog.naver.com/PostList.naver?blogId=zanmang20">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white"/>
 	</a>
