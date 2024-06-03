@@ -7,13 +7,14 @@ These files are created with help from ESTsoft.
 
 <div>
 	<h1>안면분류 모델 구현: 4가지의 감정 분류</h1>
-	Anger 화남 :angry:
+	:angry: Anger
 	<br>
-	Happy 행복 :relaxed:
+	:relaxed: Happy
 	<br>
-	Panic 놀람/공포 :fearful:
+	:fearful: Panic
 	<br>
-	Sadness 슬픔 :cry:
+	:cry: Sadness
+	<br>
 	<br>
 	<details>
 	<summary>아스퍼거 증후군 치료 보조 프로그램</summary>
