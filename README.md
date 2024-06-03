@@ -6,12 +6,12 @@
 
 # 1. 안면분류 모델
 <div>
-	<h5>[4가지의 감정 분류]</h5><br>
+	<h4>[4가지의 감정 분류]</h4>
 	:angry: Anger<br>
 	:relaxed: Happy<br>
 	:fearful: Panic<br>
 	:cry: Sadness<br><br>
-	<h5>[구현한 모델]</h5><br>
+	<h4>[구현한 모델]</h4>
 	Patt_lite<br>
 	(상세 내용 태우님께서 적어주세요)
 </div>
