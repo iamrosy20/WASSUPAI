@@ -19,36 +19,34 @@
 # 2. 안면분류 모델을 활용한 서비스
 <div>
 	<img width="474" alt="service" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/7bfeda17-5348-4b05-a2ef-517655d2cf2f"><br><br>
-
-	<details>
-	<summary>아스퍼거 증후군 치료 보조 프로그램</summary>
-		상세내용1
-  		<img width="327" alt="1" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/7d61a510-5597-485a-ac65-d1dec76f9a93">
-	</details>
- 	<details>
-	<summary>감정 감지 프로그램</summary>
-		상세내용2
-  		
-	</details>
- 	<details>
-	<summary>사진 일기 (인스토리)</summary>
-		상세내용3
-  		<img width="276" alt="3" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/0ecb6d73-4333-4c39-b554-f5b40013a40b">
-	</details>
- 	<details>
-	<summary>면접 보조 프로그램</summary>
-		상세내용4
-  		<img width="256" alt="4" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/323d7669-0aff-4e2b-ace3-6848754be06a">
-	</details>
 </div>
+
+<details>
+<summary>아스퍼거 증후군 치료 보조 프로그램</summary>
+	상세내용1
+  	<img width="327" alt="1" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/7d61a510-5597-485a-ac65-d1dec76f9a93">
+</details>
+
+ <details>
+<summary>감정 감지 프로그램</summary>
+	상세내용2	
+</details>
+
+ <details>
+<summary>사진 일기 (인스토리)</summary>
+	상세내용3
+  	<img width="276" alt="3" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/0ecb6d73-4333-4c39-b554-f5b40013a40b">
+</details>
+
+ <details>
+<summary>면접 보조 프로그램</summary>
+	상세내용4
+  	<img width="256" alt="4" src="https://github.com/iamrosy20/WASSUPAI/assets/81972902/323d7669-0aff-4e2b-ace3-6848754be06a">
+</details>
 <br><br>
 
 <div>
-	<a href="https://www.notion.so/oreumi/2-AI-WASSUP-e67da9b91fcd43dfb05c93344635bae8?pvs=4">
+	<a href="https://www.notion.so/68917b8e5bc54a978beec758fd546705?v=f873038b83454d938f8e42ef863b2d9c">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 	</a>
 </div>
-<details>
-	<summary>되나?</summary>
-	흠
-</details>
