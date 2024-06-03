@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=6495ed&height=300&section=header&text=ESTsoft%20WASSUP%20AI&fontSize=50)
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=6495ed&height=300&section=header&text=ESTsoft%20WASSUP%20AI&fontSize=50)
 
 <div align=center>
 	<a href="https://blog.naver.com/PostList.naver?blogId=zanmang20">
